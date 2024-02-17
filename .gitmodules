@@ -1,6 +1,7 @@
 [submodule "pybricks-micropython"]
 	path = external/libpybricks
-	url = https://github.com/Koushiro-Achioku/pybricks-micropython/tree/spike-rt-activate-F
+	url = https://github.com/Koushiro-Achioku/pybricks-micropython.git
+	branch = spike-rt-activate-F
 [submodule "Unity"]
 	path = external/Unity
 	url = https://github.com/ThrowTheSwitch/Unity.git
