@@ -1,0 +1,1 @@
+docker run --rm -it -v $(pwd):$(pwd) -w $(pwd) ghcr.io/spike-rt/spike-rt:v0.2.0-rich /bin/bash
